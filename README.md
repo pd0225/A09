@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    <body>
+    <main>
+    <h1>Andrew Ross Sorkin, author of <i>Too Big to Fail</i></h1>
+    <h3>November 16, 2010</h3>
+    
+   <img src="sorkin_desk260.jpg" alt="Andrew Ross Sorkin" width="260">
+        
+<body>
+<p>New York Times columnist and author, Andrew Ross Sorkin, has been described as "the most famous financial journalist of his generation." His book, <i>Too Big to Fail</i>, was the first behind-the-scenes account of the financial crisis that led to our current recession.</p>
+<p>The Economist, The Financial Times, and Business Week all named <i>Too Big to Fail</i> one of the best books of the year. The book was published by Viking October 20, 2009. The book was adapted as a movie by HBO Films and premiered on HBO on May 23, 2011. <p>
 
-You can use the [editor on GitHub](https://github.com/pd0225/A09/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pd0225/A09/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h2>The cast of the movie: <i>Too Big to Fail</i></h2>
+    <ol>1. William Hurt as Hank Paulson</ol>
+    <ol>2. Paul Giamatti as Ben Bernanke</ol>
+    <ol>3. Billy Crudup as Timothy Geithner</ol>
+    
+<h2>Movie Reviews</h2>
+    <ol>"Lots of heat but not very much light. It came across as a kind of daytime soap opera version showing the personalities of the players rather than dealing with the nuts and bolts of what really happened. Even that would not have been so bad but the movie tries to portray lots of these folks as sympathetic figures just trying to do the right thing."</ol>
+    <ol>"I am watching this for the 3rd time, trying to understand how this large group of capitalist pigs could royally screw their families, descendants, neighbors, countrymen and the rest of the whole world with absolutely no compassion."</ol> 
+    </main>
+    <footer>
+<p>Prepared by: Preksha Darji</p>
+<p>Date: March 3, 2020</p>
+    </footer>
+</body>
+</html>
